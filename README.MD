@@ -29,6 +29,6 @@ INTERFACE
 <h3 align="center">Game Screenshot</h3>
 
 <p align="center">
-  <img src="" width="600"/>
+  <img src="Screenshot 2025-07-13 180356.png" width="600"/>
 </p>
 
